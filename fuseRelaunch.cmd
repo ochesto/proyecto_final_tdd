@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ochesto/WorkspaceISE/Proyecto_Final/RAM_v_test_isim_beh.exe" -prj "/home/ochesto/WorkspaceISE/Proyecto_Final/RAM_v_test_beh.prj" "work.RAM_v_test" "work.glbl" 

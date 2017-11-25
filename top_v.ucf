@@ -1,0 +1,7 @@
+//CLK Master
+Net "CLK" LOC=V10 | IOSTANDARD=LVCMOS33;
+Net "CLK" TNM_NET = sys_clk_pin;
+TIMESPEC TS_sys_clk_pin = PERIOD sys_clk_pin 100000 kHz;
+
+//Botones
+NET "RESET" LOC = B8;
